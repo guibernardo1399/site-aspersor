@@ -5,7 +5,7 @@
 const SITE_CONFIG = {
   whatsappNumber: "5521977115614",
   whatsappMessage:
-    "Olá, vi o site sobre o Aspersor Canhão Stratus e queria saber se ele funciona para minha área. Posso te passar informações sobre plantação, área e pressão disponível."
+    "Olá! Quero fazer um orçamento do Canhão Stratus Fabrimar.\n\nMinha área precisa de melhor alcance e cobertura na irrigação.\n\nGostaria de receber orientação sobre o modelo ideal conforme minha área, pressão disponível e tipo de plantação.\n\nPode me ajudar?"
 };
 
 /* ============================================================
